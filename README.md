@@ -5,7 +5,7 @@
 
 **Cheatsheets** are the all in one saviour 💪 for last moment preps, be it your examinations or interviews 😨‍. If you have ever been a learner, you are already familiar with the blessings 😇 of cheatsheets. **CheatStreet** is not only a fully comphrensive website🚀 for cheatsheets, but also a platform to showcase your own cheatsheets. 
 
-CheatStreet will#  encompass any cheatsheet that you will come across on the internet and present it to you at your finger tips 🤞. 
+CheatStreet will encompass any cheatsheet that you will come across on the internet and present it to you at your finger tips 🤞. 
 
 ✨✨ This project is open for all and any suggestions/contributions are highly appreciated. ✨✨
 
