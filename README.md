@@ -4,7 +4,7 @@ This repo aims to be the ulitmate developer guide🐱‍💻 for anything. **Che
 
 **CheatStreet** is not only a fully comphrensive website🚀 for cheatsheets, but also a platform to showcase your own cheatsheets. 
 
-CheatStreet will encompass any cheatsheet that you will come across on the internet and present it to you at your finger tips 🤌. 
+CheatStreet will encompass any cheatsheet that you will come across on the internet and present it to you at your finger tips 🤞. 
 
 ✨✨ This project is open for all and any suggestions/contributions are highly appreciated. ✨✨
 
