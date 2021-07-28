@@ -1,7 +1,7 @@
 ![Dev-CheatStreet](https://user-images.githubusercontent.com/55273506/127376116-2da7f365-2bcd-4043-be04-f9f1c56e002c.png)
 
 
-### Dev-CheatStreet 🚀 aims to be the ulitmate developer guide🐱‍💻 for anything. 
+### Dev-CheatStreet 🚀 aims to be the ultimate developer guide🐱‍💻 for anything. 
 
 **Cheatsheets** are the all in one saviour 💪 for last moment preps, be it your examinations or interviews 😨‍. If you have ever been a learner, you are already familiar with the blessings 😇 of cheatsheets. **CheatStreet** is not only a fully comphrensive website🚀 for cheatsheets, but also a platform to showcase your own cheatsheets. 
 
