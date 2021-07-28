@@ -1,10 +1,11 @@
-# Dev-CheatStreet 🚀
+![Dev-CheatStreet](https://user-images.githubusercontent.com/55273506/127376116-2da7f365-2bcd-4043-be04-f9f1c56e002c.png)
 
-This repo aims to be the ulitmate developer guide🐱‍💻 for anything. **Cheatsheets** are the all in one saviour 💪 for last moment preps, be it your examinations or interviews 😨‍. If you have ever been a learner, you are already familiar with the blessings 😇 of cheatsheets. 
 
-**CheatStreet** is not only a fully comphrensive website🚀 for cheatsheets, but also a platform to showcase your own cheatsheets. 
+### Dev-CheatStreet 🚀 aims to be the ulitmate developer guide🐱‍💻 for anything. 
 
-CheatStreet will encompass any cheatsheet that you will come across on the internet and present it to you at your finger tips 🤞. 
+**Cheatsheets** are the all in one saviour 💪 for last moment preps, be it your examinations or interviews 😨‍. If you have ever been a learner, you are already familiar with the blessings 😇 of cheatsheets. **CheatStreet** is not only a fully comphrensive website🚀 for cheatsheets, but also a platform to showcase your own cheatsheets. 
+
+CheatStreet will#  encompass any cheatsheet that you will come across on the internet and present it to you at your finger tips 🤞. 
 
 ✨✨ This project is open for all and any suggestions/contributions are highly appreciated. ✨✨
 
