@@ -1,4 +1,5 @@
 ![Dev-CheatStreet](https://user-images.githubusercontent.com/55273506/127376116-2da7f365-2bcd-4043-be04-f9f1c56e002c.png)
+<!-- ![DEV-CheatStreet](https://user-images.githubusercontent.com/55273506/127422870-4bf1f393-ac9c-4c99-8449-65d334ccf651.gif) -->
 
 
 ### Dev-CheatStreet 🚀 aims to be the ultimate developer guide🐱‍💻 for anything. 
